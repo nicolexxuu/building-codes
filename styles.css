@@ -127,10 +127,6 @@ form {
     font-weight: bold;
     font-size: 2em;
 } */
-.output-costs box {
-    flex-grow: 1;
-}
-
 
 /* FOOTER */
 .footer-title {
